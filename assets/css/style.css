@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(96, 96, 237);
+    font-family: "Madimi One", sans-serif;
+}
+
+.pokeImage{
+    width: 300px;
+  
+}
+#pokeContainer{
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1 img{
+    width: 500px;
+    
+}
+h1{
+    text-align: center;
+}
+
+.userText{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 30px;
+   
+}
+
+#score{
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 40px;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-color: yellow;
+    width: 300px;
+    
+}
+
+#textScore{
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 40px;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-color: yellow;
+    width: 300px;
+    
+}
+
+.hidden{
+    display: none;
+}
+
+input[type=text] {
+    border: 3px solid rgb(11, 11, 11);
+    border-radius: 20px;
+    width: 250px;
+    height: 40px;
+    text-align: center;
+    background-color: yellow;
+    font-size: 20px;
+    font-family: "Madimi One", sans-serif;
+  }
